@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 13",
+        "slug": "iphone-13",
+        "brand": "Apple",
+        "year": 2021,
+        "memory": "128gb",
+        "description": "Smartphone Apple Iphone 13 IOS",
+        "color": "black",
+        "relationedProducts": ["Iphone 12", "Iphone 11", "Iphone 10"]
+    },
+    {
+        "id": 2,
+        "name": "Galaxy S22 Ultra",
+        "slug": "galaxy-s22-ultra",
+        "brand": "Samsung",
+        "year": 2022,
+        "memory": "256gb",
+        "description": "Smartphone Galaxy S22 Ultra",
+        "color": "black",
+        "relationedProducts": ["Iphone 12", "Iphone 11", "Iphone 10"]
+    },
+    {
+        "id": 3,
+        "name": "Galaxy S22 Plus",
+        "slug": "galaxy-s22-plus",
+        "brand": "Samsung",
+        "year": 2022,
+        "memory": "256gb",
+        "description": "Smartphone Galaxy S22 Plus",
+        "color": "green",
+        "relationedProducts": ["Iphone 12", "Iphone 11", "Iphone 10"]
+    }
+]
