@@ -36,3 +36,14 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+
+    width: 500px;
+}
+
+form input {
+    margin-bottom: 10px;
+}
